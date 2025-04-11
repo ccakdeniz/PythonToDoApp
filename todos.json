@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Practice some more Python",
+    "done": true
+  },
+  {
+    "title": "Do the dishes",
+    "done": false
+  },
+  {
+    "title": "Fold the laundry",
+    "done": false
+  }
+]
